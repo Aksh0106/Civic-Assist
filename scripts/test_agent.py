@@ -1,9 +1,16 @@
-from agent.agent import CitizenIssueAgent
+import joblib
 
-agent = CitizenIssueAgent()
+# Load models
+dept_model = joblib.load("models/department_model.pkl")
+cat_model = joblib.load("models/category_model.pkl")
 
-sample = "Open manhole near school, dangerous for kids."
-result = agent.run(sample)
+# Sample complaint
+sample_text = "There is a broken water pipe leaking near the school entrance."
 
-for k, v in result.items():
-    print(f"{k.upper()}:\n{v}\n")
+# Predict
+predicted_dept = dept_model.predict([sample_text])[0]
+predicted_cat = cat_model.predict([sample_text])[0]
+
+print("Complaint:", sample_text)
+print("Predicted Department:", predicted_dept)
+print("Predicted Category:", predicted_cat)
