@@ -1,21 +1,30 @@
-text,department,category,severity
-Broken water pipe near 5th Main,Water Supply & Sewerage,Pipe Leakage,high
-Streetlight not working near park,Electricity Board,Streetlight Outage,low
-Garbage not collected for 3 days in our lane,Solid Waste Management,Waste Collection,medium
-Potholes on 3rd Cross making it hard for vehicles,Public Works Department,Road Maintenance,medium
+No light on 2nd Cross since last night,Electricity Board,Streetlight Outage,low
+Streetlight near the park is not working,Electricity Board,Streetlight Outage,medium
+Multiple streetlights fused on main road,Electricity Board,Streetlight Outage,medium
+Dark stretch near bus stop due to broken streetlight,Electricity Board,Streetlight Outage,high
+Lamp post flickering opposite temple,Electricity Board,Streetlight Outage,low
+Water pipe burst near junction,Water Supply & Sewerage,Pipe Leakage,high
+Underground pipe leaking on 3rd Cross,Water Supply & Sewerage,Pipe Leakage,medium
+Continuous water seepage outside my gate,Water Supply & Sewerage,Pipe Leakage,low
+Major leak from valve near market,Water Supply & Sewerage,Pipe Leakage,high
+Minor leakage at roadside connection,Water Supply & Sewerage,Pipe Leakage,low
 Open manhole near school is dangerous for kids,Water Supply & Sewerage,Manhole Hazard,high
-Illegal parking blocking market road during evenings,Traffic Police,Traffic Obstruction,medium
-Mosquito breeding due to stagnant water behind apartments,Public Health,Vector Control,medium
-Tree branch fell on electric wires near community hall,Electricity Board,Electrical Hazard,high
-Footpath blocked by construction debris on 2nd Cross,Public Works Department,Footpath Blockage,low
-Sewage overflow causing foul smell across our street,Water Supply & Sewerage,Sewage Overflow,high
-Loud construction noise past midnight near Indiranagar,Public Works Department,Noise Pollution,medium
-Stray dogs chasing pedestrians near school gate,Animal Welfare Board,Stray Animal Issue,medium
-Traffic signal not working at Koramangala junction,Traffic Police,Signal Malfunction,high
-Overflowing garbage bin near Jayanagar 4th Block,Solid Waste Management,Waste Overflow,medium
-Dim streetlight near bus stop in Malleshwaram,Electricity Board,Streetlight Outage,low
-Roadside vendor blocking footpath near Shivajinagar,Public Works Department,Footpath Blockage,low
-Water leakage from overhead tank in apartment complex,Water Supply & Sewerage,Tank Leakage,medium
-Uncovered drain near playground in Rajajinagar,Water Supply & Sewerage,Drain Hazard,high
-No garbage pickup in HSR Layout for 5 days,Solid Waste Management,Waste Collection,high
-Construction debris dumped on road near BTM Layout,Public Works Department,Debris Dumping,medium
+Broken manhole cover outside library,Water Supply & Sewerage,Manhole Hazard,medium
+Sunken manhole on 5th Main causing risk,Water Supply & Sewerage,Manhole Hazard,high
+Loose manhole lid wobbling near apartments,Water Supply & Sewerage,Manhole Hazard,medium
+Manhole overflowing after rain,Water Supply & Sewerage,Manhole Hazard,high
+Huge pothole on main road,Public Works Department,Road Maintenance,medium
+Multiple potholes making it hard for vehicles,Public Works Department,Road Maintenance,medium
+Road surface broken near market circle,Public Works Department,Road Maintenance,medium
+Uneven speed breaker causing accidents,Public Works Department,Road Maintenance,high
+Cracked pavement on 4th Cross,Public Works Department,Road Maintenance,low
+Garbage not collected for 3 days in our lane,Solid Waste Management,Waste Collection,medium
+Trash overflowing in front of my house,Solid Waste Management,Waste Collection,high
+Dustbin full and not cleared today,Solid Waste Management,Waste Collection,low
+Stagnant waste attracting stray dogs,Solid Waste Management,Waste Collection,medium
+Garbage truck skipped our street again,Solid Waste Management,Waste Collection,medium
+Streetlight not turning on after 7pm,Electricity Board,Streetlight Outage,medium
+Pipe burst flooding the footpath,Water Supply & Sewerage,Pipe Leakage,high
+Deep pothole damaging vehicle tires,Public Works Department,Road Maintenance,high
+Garbage piled up near community hall,Solid Waste Management,Waste Collection,medium
+Manhole cover missing opposite the hospital,Water Supply & Sewerage,Manhole Hazard,high
